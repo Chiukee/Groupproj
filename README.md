@@ -28,7 +28,7 @@ Area is also limited to locations within the 50 United States.
 
 * User must be able to register(must choose between an organization or an individual)
 
-- [ x] User must be able to log-in
+- [x] User must be able to log-in
 
 * User must be given an option to change or retreive password
 
