@@ -28,7 +28,7 @@ Area is also limited to locations within the 50 United States.
 
 * User must be able to register(must choose between an organization or an individual)
 
-* User must be able to log-in
+- [ x] User must be able to log-in
 
 * User must be given an option to change or retreive password
 
@@ -204,6 +204,13 @@ patch-3
       - (Update/PUT) Update Hours of Operation
       - (Update/PUT) Update Description 
 
--  Symptoms Screen
-      - (Read/GET) List of possible symptoms with checks
-      - (Update/PUT) Check Marks next to symptoms users have
+ - Symptoms Screen
+       - (Read/GET) List of possible symptoms with checks
+       - (Update/PUT) Check Marks next to symptoms users have
+      
+      
+  ## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='Login&Logout.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
