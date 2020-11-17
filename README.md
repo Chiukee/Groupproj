@@ -26,7 +26,7 @@ Area is also limited to locations within the 50 United States.
 
 **Required Must-have Stories**
 
-[x] User must be able to register(must choose between an organization or an individual)
+- [x] User must be able to register(must choose between an organization or an individual)
 
 - [x] User must be able to log-in
 
