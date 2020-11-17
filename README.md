@@ -214,3 +214,6 @@ patch-3
 Here's a walkthrough of implemented user stories:
 
 <img src='Login&Logout.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='registertesting.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
