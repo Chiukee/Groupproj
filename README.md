@@ -34,11 +34,11 @@ Area is also limited to locations within the 50 United States.
 
 * User must be able to view COVID-19 statistics for their current location/address
 
-[x] User must be able to put in an address, with zip code
+- [x] User must be able to put in an address, with zip code
 
-[x] User must be able to scroll options icon screen
+- [x] User must be able to scroll options icon screen
 
-[x] User must be able to view and edit their data
+- [x] User must be able to view and edit their data
 
 An individual user:
 
