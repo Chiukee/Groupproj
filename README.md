@@ -32,7 +32,7 @@ Area is also limited to locations within the 50 United States.
 
 * User must be given an option to change or retreive password
 
--[x] User must be able to view COVID-19 statistics for their current location/address
+- [x] User must be able to view COVID-19 statistics for their current location/address
 
 - [x] User must be able to put in an address, with zip code
 
@@ -218,6 +218,8 @@ Here's a walkthrough of implemented user stories:
 <img src='registertesting.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='update2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='scree2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
