@@ -32,7 +32,7 @@ Area is also limited to locations within the 50 United States.
 
 * User must be given an option to change or retreive password
 
-* User must be able to view COVID-19 statistics for their current location/address
+-[x] User must be able to view COVID-19 statistics for their current location/address
 
 - [x] User must be able to put in an address, with zip code
 
@@ -42,7 +42,7 @@ Area is also limited to locations within the 50 United States.
 
 An individual user:
 
-*Must be able to find nearest testing center or hospital relative to the address they put in
+- [x] Must be able to find nearest testing center or hospital relative to the address they put in
 
 *Must be able to fill out symptom checklist.
  -Depending on results of symptom checklist, user must be given a list of locations ordered by distance from nearest to farthest(between 0-10 miles) 
@@ -51,7 +51,7 @@ An individual user:
 
 An organization user:
 
-*Must be able to display: 
+- [x] Must be able to display: 
 Organization Name
 Location
 Mainline Phone number
